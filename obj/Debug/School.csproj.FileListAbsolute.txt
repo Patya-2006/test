@@ -1,0 +1,12 @@
+D:\подготовка к дэмэкзамену\School\bin\Debug\School.exe.config
+D:\подготовка к дэмэкзамену\School\bin\Debug\School.exe
+D:\подготовка к дэмэкзамену\School\bin\Debug\School.pdb
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.csproj.AssemblyReference.cache
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.Form1.resources
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.FormStudents.resources
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.Formteacher.resources
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.Properties.Resources.resources
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.exe
+D:\подготовка к дэмэкзамену\School\obj\Debug\School.pdb
